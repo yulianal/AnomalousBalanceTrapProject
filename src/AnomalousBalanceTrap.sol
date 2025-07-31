@@ -7,7 +7,7 @@ interface ITrap {
 }
 
 contract AnomalousBalanceTrap is ITrap {
-    address public constant target = 0x6493490386f9F78205B284B99A2E6126C4167498;
+    address public constant target = 0xc7ea........a4c1;
     uint256 public constant thresholdPercent = 20;
     uint256 public constant minDiffWei = 5 ether;
 
