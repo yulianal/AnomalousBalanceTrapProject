@@ -16,7 +16,7 @@
 ## 🔎 Trap Logic: `AnomalousBalanceTrap.sol`
 
 ```solidity
-address public constant target = 0x6493...7498;
+address public constant target = 0xc7e..2a4c1;
 uint256 public constant thresholdPercent = 20;
 uint256 public constant minDiffWei = 5 ether;
 ```
