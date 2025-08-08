@@ -1,5 +1,5 @@
 # AnomalousBalanceTrap 🚀  
-**ETH Surge Trap — Drosera Trap by Sshadow84**
+**ETH Surge Trap — Drosera Trap by yulianal**
 
 ---
 
